@@ -1,0 +1,11 @@
+C:\Users\m-add\Desktop\AdventCode2019\Day_02\Day_02\bin\Debug\netcoreapp3.1\Day_02.exe
+C:\Users\m-add\Desktop\AdventCode2019\Day_02\Day_02\bin\Debug\netcoreapp3.1\Day_02.deps.json
+C:\Users\m-add\Desktop\AdventCode2019\Day_02\Day_02\bin\Debug\netcoreapp3.1\Day_02.runtimeconfig.json
+C:\Users\m-add\Desktop\AdventCode2019\Day_02\Day_02\bin\Debug\netcoreapp3.1\Day_02.runtimeconfig.dev.json
+C:\Users\m-add\Desktop\AdventCode2019\Day_02\Day_02\bin\Debug\netcoreapp3.1\Day_02.dll
+C:\Users\m-add\Desktop\AdventCode2019\Day_02\Day_02\bin\Debug\netcoreapp3.1\Day_02.pdb
+C:\Users\m-add\Desktop\AdventCode2019\Day_02\Day_02\obj\Debug\netcoreapp3.1\Day_02.csprojAssemblyReference.cache
+C:\Users\m-add\Desktop\AdventCode2019\Day_02\Day_02\obj\Debug\netcoreapp3.1\Day_02.AssemblyInfoInputs.cache
+C:\Users\m-add\Desktop\AdventCode2019\Day_02\Day_02\obj\Debug\netcoreapp3.1\Day_02.AssemblyInfo.cs
+C:\Users\m-add\Desktop\AdventCode2019\Day_02\Day_02\obj\Debug\netcoreapp3.1\Day_02.dll
+C:\Users\m-add\Desktop\AdventCode2019\Day_02\Day_02\obj\Debug\netcoreapp3.1\Day_02.pdb
